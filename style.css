@@ -1,0 +1,34 @@
+body{
+    overflow-y: none;
+    overflow-x: none;
+}
+#div-container{
+    display: flex;
+}
+#button1 , #button2{
+    display: none;
+    text-align: center;
+}
+button{
+    margin: 1rem;
+    padding: 5px;
+    padding: 4px 10px;
+}
+
+.div{
+    display: flex;
+}
+.div1{
+    margin: 2rem;
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(72, 37, 37);
+    border-radius: 1rem;
+}
+.div2{
+    margin: 2rem;
+    width: 10rem;
+    height: 10rem;
+    background-color: #032c46;
+    border-radius: 1rem;
+}
